@@ -5,7 +5,7 @@ My personal configurations and dotfiles.
 
 A quick reference guide for where these configuration files belong on a fresh system install.
 
-### User Configurations (`~`)
+## User Configurations (`~`)
 * **bash/**
   * Debian/ & Fedora/
     * Move `.bashrc` to `~/.bashrc`  
@@ -17,9 +17,7 @@ A quick reference guide for where these configuration files belong on a fresh sy
 * **kitty/**  
   * Move `kitty.conf` to `~/.config/kitty/kitty.conf`  
 
----
-
-### System Configurations (`/etc`)
+## System Configurations (`/etc`)
 * **grub/**  
   * Debian/ & Fedora/
     * Move `grub` to `/etc/default/grub`  
