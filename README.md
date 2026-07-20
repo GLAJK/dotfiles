@@ -25,6 +25,7 @@ A quick reference guide for where these configuration files belong on a fresh sy
   ➡️ Move `grub` to `/etc/default/grub`  
   *Fast bootloader configurations (instant boot).*
 
-* **zram/**  
-  ➡️ Move `zramswap` to `/etc/default/zramswap`  
+* **zram/**
+  * Debian/ ➡️ Move `zramswap` to `/etc/default/zramswap`  
+  * Fedora/ ➡️ Move `zram-generator.conf` to `/etc/systemd/zram-generator.conf`  
   *System memory performance configuration utilizing zstd.*
