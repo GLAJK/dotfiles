@@ -6,11 +6,13 @@ My personal configurations and dotfiles.
 A quick reference guide for where these configuration files belong on a fresh system install.
 
 ### User Configurations (`~`)
-* **bash/**  
-  * Move `.bashrc` to `~/.bashrc`  
+* **bash/**
+  * Debian/ & Fedora/
+    * Move `.bashrc` to `~/.bashrc`  
 
 * **fastfetch/**  
-  * Move `config.jsonc` to `~/.config/fastfetch/config.jsonc`  
+  * Debian/ & Fedora/
+    * Move `config.jsonc` to `~/.config/fastfetch/config.jsonc`  
 
 * **kitty/**  
   * Move `kitty.conf` to `~/.config/kitty/kitty.conf`  
