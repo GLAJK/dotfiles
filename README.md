@@ -7,11 +7,11 @@ A quick reference guide for where these configuration files belong on a fresh sy
 
 ## User Configurations (`~`)
 * **bash/**
-  * Debian/ & Fedora/
+  * Debian/ & Fedora/ & Termux/
     * Move `.bashrc` to `~/.bashrc`  
 
 * **fastfetch/**  
-  * Debian/ & Fedora/
+  * Debian/ & Fedora/ & Termux/
     * Move `config.jsonc` to `~/.config/fastfetch/config.jsonc`  
 
 * **kitty/**  
