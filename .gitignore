@@ -1,0 +1,24 @@
+# Ignore SSH keys & credentials
+id_rsa
+id_rsa.pub
+*.pem
+*.key
+.gnupg/
+
+# Ignore Shell & Command History
+.bash_history
+.zsh_history
+.lesshst
+
+# Ignore OS/System Junk Files
+.DS_Store
+Thumbs.db
+
+# Ignore Sensitive Environment Variables
+.env
+*.env
+
+# Powershell & Windows History
+ConsoleHost_history.txt
+*.suo
+*.user
