@@ -12,7 +12,7 @@ A quick reference guide for where these configuration files belong on a fresh sy
   Copy `.bashrc` → `~/.bashrc`  
 
 * **fastfetch/**  
-  Debian / Fedora / Termux / WSL  
+  Debian / Fedora / Termux / WSL / Windows  
   Copy `config.jsonc` → `~/.config/fastfetch/config.jsonc`  
 
 * **kitty/**  
